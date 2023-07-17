@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am a software engineer, currently creating websites using React JS. 
+
 
 
 ## 🌐 Socials:
